@@ -18,11 +18,10 @@
 ![Demo](docs/demo.gif)
 
 | Air validation target | Reconstructed mesh (Blender) |
-|:---:|<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fafa998-75f6-4cd7-9d95-90c354904511" />
-|
-| <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/14d280e9-218f-4b61-a5c7-ebcf0c69380e" />
- |<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/8feeb976-03d4-419b-9199-e916e2d23e27" />
- |
+|:---:|:---:|
+| <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/43a82dc4-6c36-4e97-af5d-12a6e6835083" />
+ | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12a1f9a0-b3e9-453f-b16f-a4e22916211c" />
+` |
 
 ---
 
