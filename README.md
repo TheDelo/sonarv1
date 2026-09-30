@@ -19,7 +19,9 @@
 
 | Validation target | Reconstructed mesh (Blender) |
 | :---: | :---: |
-| <img src="[https://github-production-user-asset-6210df.s3.amazonaws.com/52975977/662156392-43a82dc4-6c36-4e97-af5d-12a6e6835083.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260930T122950Z&X-Amz-Expires=300&X-Amz-Signature=2771bcf0faf75600ca091310f7500c9d2ff84b4b3909c93637ec33896387a2b9&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)] width="250" alt="Projet 1" /> | <img src="images/app2.png" width="250" alt="Projet 2" /> |
+| <img src="[<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3e6a4ad9-9fe2-44ad-8e57-d80c716b2ae2" />
+] width="250" alt="Projet 1" /> | <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7fc3855-ca40-46ba-825c-6737db270c79" />
+" width="250" alt="Projet 2" /> |
 | <img src="images/app3.png" width="250" alt="Projet 3" /> | <img src="images/app4.png" width="250" alt="Projet 4" /> |
 
 ---
