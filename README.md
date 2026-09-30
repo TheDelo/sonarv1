@@ -17,11 +17,10 @@
 <!-- Replace with a GIF: hardware setup + Blender mesh -->
 ![Demo](docs/demo.gif)
 
-| Air validation target | Reconstructed mesh (Blender) |
-|:---:|:---:|
-| <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/43a82dc4-6c36-4e97-af5d-12a6e6835083" />
- | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12a1f9a0-b3e9-453f-b16f-a4e22916211c" />
-` |
+| Validation target | Reconstructed mesh (Blender) |
+| :---: | :---: |
+| <img src="[images/app1.png](https://github-production-user-asset-6210df.s3.amazonaws.com/52975977/662156392-43a82dc4-6c36-4e97-af5d-12a6e6835083.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260930T122950Z&X-Amz-Expires=300&X-Amz-Signature=2771bcf0faf75600ca091310f7500c9d2ff84b4b3909c93637ec33896387a2b9&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)" width="250" alt="Projet 1" /> | <img src="images/app2.png" width="250" alt="Projet 2" /> |
+| <img src="images/app3.png" width="250" alt="Projet 3" /> | <img src="images/app4.png" width="250" alt="Projet 4" /> |
 
 ---
 
