@@ -19,7 +19,9 @@
 
 | Air validation target | Reconstructed mesh (Blender) |
 |:---:|:---:|
-| `docs/reference_air.jpg` | `docs/blender_air.png` |
+| <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/14d280e9-218f-4b61-a5c7-ebcf0c69380e" />
+ | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f7784c5-88e5-4a49-b9a9-db18e73818c1" />
+ |
 
 ---
 
