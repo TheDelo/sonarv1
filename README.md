@@ -19,8 +19,8 @@
 
 | Validation target | Reconstructed mesh (Blender) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/3e6a4ad9-9fe2-44ad-8e57-d80c716b2ae2" width="350" alt="Validation target" /> | <img src="https://github.com/user-attachments/assets/d7fc3855-ca40-46ba-825c-6737db270c79" width="350" alt="Reconstructed mesh" /> |
-| <img src="images/app3.png" width="250" alt="Projet 3" /> | <img src="images/app4.png" width="250" alt="Projet 4" /> |
+| <img src="https://github.com/user-attachments/assets/3e6a4ad9-9fe2-44ad-8e57-d80c716b2ae2" height="250" alt="Validation target" /> | <img src="https://github.com/user-attachments/assets/d7fc3855-ca40-46ba-825c-6737db270c79" height="250" alt="Reconstructed mesh" /> |
+| <img src="https://github.com/user-attachments/assets/990db674-ec0c-4550-ae62-afd5e4360b70" height="250" alt="Hardware setup" /> | <img src="https://github.com/user-attachments/assets/75b55b8e-7877-4a88-a4a3-dfab93da6e8e" height="250" alt="Mesh preview" /> |
 
 ---
 
